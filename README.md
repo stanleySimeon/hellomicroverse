@@ -27,8 +27,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author**
 - Stanley SIMEON
-- GitHub: [@mstanley-me]
-- LinkedIn: [@stanleysimeon]
+- GitHub: [https://github.com/mstanley-me]
+- LinkedIn: [https://www.linkedin.com/in/stanley-simeon-881091224/]
 
 ## 🤝 Contributing
 
